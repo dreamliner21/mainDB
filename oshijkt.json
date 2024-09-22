@@ -3,6 +3,11 @@
         "name": "angelina christy",
         "second_name": "christy",
         "image": "https://telegra.ph/file/a18ce91790f1a86b25024.jpg",
+        "bio": {
+            "birthdate": "5 December 2005",
+            "zodiac": "Sagitarius",
+            "description": "Memulai karier di JKT48 saat umur 12 tahun, Christy kala itu masuk sebagai trainee Academy Class B pada tanggal 29 September 2018. Bulan depannya, tepat pada tanggal 30 Oktober 2018, ia pun dipromosikan ke Academy's Class A.\n Di tahun 2019, Christy berhasil masuk ke jajaran senbatsu di posisi ke-13 untuk single original JKT48 berjudul Rapsodi. Sebelum lolos di jajaran senbatsu single Rapsodi, Christy lebih dulu dipromosikan ke Team KIII pada 27 April 2019. Lalu, ia kemudian ditransfer ke JKT48 New Formation pada 13 Maret 2021.\n Catchphrase:'Peduli dan berbaik hati, siapa dia? Chriiiis-ty!'"
+        },
         "socials": {
             "instagram": "https://www.instagram.com/jkt48.christy/",
             "tiktok": "https://www.tiktok.com/@christyjkt48",
@@ -13,6 +18,11 @@
         "name": "freya jayawardana",
         "second_name": "freya",
         "image": "https://telegra.ph/file/ede7f8a23b81d11a6ea11.jpg",
+        "bio": {
+            "birthdate": "13 February 2006",
+            "zodiac": "Cancer",
+            "description": "Freya memulai kariernya dengan bergabung bersama JKT48 di usia 12 tahun. Kala itu ia masuk sebagai trainee JKT48 Academy Class B pada 29 September 2018.\n Masih di tahun yang sama, Freya kemudian dipromosikan ke Academy's Class A. Freya juga sempat mengikuti seleksi senbatsu kelima. Tak lolos, Freya kembali mengikuti seleksi senbatsu keenam di tahun 2019.\n Setahun setelahnya, tepatnya tanggal 2 Juni 2020, Freya pun akhirnya dipromosikan ke Tim T, dan di tahun 2021 ia ditransfer ke JKT48 New Formation.\n Catchphrase:'Gadis koleris yang suka berimajinasi, terangi harimu dengan senyum karamelku. Halo semua, Aku Freya!'"
+        },
         "socials": {
             "instagram": "https://instagram.com/jkt48.freya",
             "tiktok": "https://tiktok.com/@freyajkt48",
@@ -23,6 +33,11 @@
         "name": "shania gracia",
         "second_name": "ci gre",
         "image": "https://telegra.ph/file/be32cf9bafd5180630158.jpg",
+        "bio": {
+            "birthdate": "31 August 1999",
+            "zodiac": "Cancer",
+            "description": "Bersama Feni, Gracia kini menjadi member terakhir yang tersisa dari generasi 3 JKT48 sejak debutnya pada 15 Maret 2014. Setelah kurang lebih setahun menjalani masa trainee, Gracia akhirnya dipromosikan menjadi member inti Team T dan belajar banyak melalui setlist Sambil Menggandeng Erat Tanganku dibawah kepemimpinan Haruka Nakagawa. Di Team T, Gracia mendapat kesempatan dipilih langsung oleh pihak manajemen untuk menjadi center lagu undergirls berjudul Punggung Milikmu.\n Catchphrase: 'Senyumku akan terekam jelas dalam ingatanmu seperti foto dengan sejuta warna! Namaku Gracia, always smile! Sekali lagi? (Gracia!)'"
+        },
         "socials": {
             "instagram": "https://instagram.com/jkt48gracia",
             "tiktok": "https://tiktok.com/@graciajkt48",
@@ -33,6 +48,11 @@
         "name": "feni fitriyani",
         "second_name": "mpok mpen",
         "image": "https://telegra.ph/file/1e3d6416a2de6f3c7f2d5.jpg",
+        "bio": {
+            "birthdate": "21 July 2005",
+            "zodiac": "Cancer",
+            "description": "Nama asli: Grace Octaviani Tanujaya. Member JKT48 generasi 11. Catchphrase: ''"
+        },
 	"socials": {
             "instagram": "https://instagram.com/jkt48feni",
             "tiktok": "https://tiktok.com/@fenijkt48",
@@ -43,6 +63,11 @@
         "name": "Shani Indira Natio",
         "second_name": "ci shani",
         "image": "https://telegra.ph/file/3e36411e957693df9915d.jpg",
+        "bio": {
+            "birthdate": "21 July 2005",
+            "zodiac": "Cancer",
+            "description": "Nama asli: Grace Octaviani Tanujaya. Member JKT48 generasi 11. Catchphrase: ''"
+        },
 	"socials": {
             "instagram": "https://instagram.com/_shaniindira",
             "tiktok": "https://tiktok.com/_shaniindira",
@@ -53,6 +78,11 @@
         "name": "lulu salsabilla",
         "second_name": "lulu",
         "image": "https://telegra.ph/file/b3f9f1d48645ecaf127b3.jpg",
+        "bio": {
+            "birthdate": "21 July 2005",
+            "zodiac": "Cancer",
+            "description": "Nama asli: Grace Octaviani Tanujaya. Member JKT48 generasi 11. Catchphrase: ''"
+        },
 	"socials": {
             "instagram": "https://instagram.com/jkt48.lulu",
             "tiktok": "https://tiktok.com/@lulu_jkt48",
@@ -63,6 +93,11 @@
         "name": "reva fidela",
         "second_name": "adel",
         "image": "https://telegra.ph/file/6052a253d49994bf0be99.jpg",
+        "bio": {
+            "birthdate": "21 July 2005",
+            "zodiac": "Cancer",
+            "description": "Nama asli: Grace Octaviani Tanujaya. Member JKT48 generasi 11. Catchphrase: ''"
+        },
 	"socials": {
             "instagram": "https://instagram.com/jkt48.adel",
             "tiktok": "https://tiktok.com/@adeljkt48",
@@ -73,6 +108,11 @@
         "name": "indah cahya",
         "second_name": "indah",
         "image": "https://telegra.ph/file/1a3c3b61598f10abc5ba8.jpg",
+        "bio": {
+            "birthdate": "21 July 2005",
+            "zodiac": "Cancer",
+            "description": "Nama asli: Grace Octaviani Tanujaya. Member JKT48 generasi 11. Catchphrase: ''"
+        },
 	"socials": {
             "instagram": "https://instagram.com/jkt48indaah_",
             "tiktok": "https://tiktok.com/@indahjkt48",
@@ -83,6 +123,11 @@
         "name": "kathrina irene",
         "second_name": "atin",
         "image": "https://telegra.ph/file/3a790cd77b2d77b34ffcb.jpg",
+        "bio": {
+            "birthdate": "21 July 2005",
+            "zodiac": "Cancer",
+            "description": "Nama asli: Grace Octaviani Tanujaya. Member JKT48 generasi 11. Catchphrase: ''"
+        },
 	"socials": {
             "instagram": "https://instagram.com/jkt48.kathrina",
             "tiktok": "https://tiktok.com/@kathrinajkt48",
@@ -93,6 +138,11 @@
         "name": "marsha lenathea",
         "second_name": "matcha",
         "image": "https://telegra.ph/file/1c4b1b7a6ab317ea456da.jpg",
+        "bio": {
+            "birthdate": "21 July 2005",
+            "zodiac": "Cancer",
+            "description": "Nama asli: Grace Octaviani Tanujaya. Member JKT48 generasi 11. Catchphrase: ''"
+        },
 	"socials": {
             "instagram": "https://instagram.com/jkt48.marsha",
             "tiktok": "https://tiktok.com/@marsha.jkt48",
@@ -103,6 +153,11 @@
         "name": "amanda sukma",
         "second_name": "manda",
         "image": "https://telegra.ph/file/e579415b04a289834621f.jpg",
+        "bio": {
+            "birthdate": "21 July 2005",
+            "zodiac": "Cancer",
+            "description": "Nama asli: Grace Octaviani Tanujaya. Member JKT48 generasi 11. Catchphrase: ''"
+        },
 	"socials": {
             "instagram": "https://www.instagram.com/jkt48.amanda.s/",
             "tiktok": "https://tiktok.com/@jkt48.amanda.s",
@@ -113,6 +168,11 @@
         "name": "aurellia",
         "second_name": "lia",
         "image": "https://telegra.ph/file/0d0ca8b90a20a3a9605ad.jpg",
+        "bio": {
+            "birthdate": "21 July 2005",
+            "zodiac": "Cancer",
+            "description": "Nama asli: Grace Octaviani Tanujaya. Member JKT48 generasi 11. Catchphrase: ''"
+        },
 	"socials": {
             "instagram": "https://instagram.com/jkt48.aurellia_",
             "tiktok": "https://tiktok.com/@jkt48.aurellia_",
@@ -123,6 +183,11 @@
         "name": "callista alifia",
         "second_name": "callie",
         "image": "https://telegra.ph/file/482f6291a60cd8d232949.jpg",
+        "bio": {
+            "birthdate": "21 July 2005",
+            "zodiac": "Cancer",
+            "description": "Nama asli: Grace Octaviani Tanujaya. Member JKT48 generasi 11. Catchphrase: ''"
+        },
 	"socials": {
             "instagram": "https://instagram.com/jkt48.callie.a",
             "tiktok": "https://tiktok.com/@jkt48.callie.a",
@@ -133,6 +198,11 @@
         "name": "gabriela abigail",
         "second_name": "ella",
         "image": "https://telegra.ph/file/f1fb015a8242b16acbc2f.jpg",
+        "bio": {
+            "birthdate": "21 July 2005",
+            "zodiac": "Cancer",
+            "description": "Nama asli: Grace Octaviani Tanujaya. Member JKT48 generasi 11. Catchphrase: ''"
+        },
 	"socials": {
             "instagram": "https://instagram.com/jkt48.ella.a",
             "tiktok": "https://tiktok.com/@jkt48.ella.a",
@@ -143,6 +213,11 @@
         "name": "indira putri",
         "second_name": "dira",
         "image": "https://telegra.ph/file/6e9f3092b06060eb2fd97.jpg",
+        "bio": {
+            "birthdate": "21 July 2005",
+            "zodiac": "Cancer",
+            "description": "Nama asli: Grace Octaviani Tanujaya. Member JKT48 generasi 11. Catchphrase: ''"
+        },
 	"socials": {
             "instagram": "https://instagram.com/jkt48.indira.s",
             "tiktok": "https://tiktok.com/@jkt48.indira.s",
@@ -153,6 +228,11 @@
         "name": "jesslyn elly",
         "second_name": "lyn",
         "image": "https://telegra.ph/file/08c5973e844e22c4b1cfd.jpg",
+        "bio": {
+            "birthdate": "21 July 2005",
+            "zodiac": "Cancer",
+            "description": "Nama asli: Grace Octaviani Tanujaya. Member JKT48 generasi 11. Catchphrase: ''"
+        },
 	"socials": {
             "instagram": "https://instagram.com/jkt48.lyn.s",
             "tiktok": "https://tiktok.com/@jkt48.lyn.s",
@@ -163,6 +243,11 @@
         "name": "raisha syifa",
         "second_name": "raisha",
         "image": "https://telegra.ph/file/59dc73f9c2588e167386c.jpg",
+        "bio": {
+            "birthdate": "21 July 2005",
+            "zodiac": "Cancer",
+            "description": "Nama asli: Grace Octaviani Tanujaya. Member JKT48 generasi 11. Catchphrase: ''"
+        },
 	"socials": {
             "instagram": "https://instagram.com/jkt48.raisha.s",
             "tiktok": "https://tiktok.com/@jkt48.raisha.s",
@@ -173,6 +258,11 @@
         "name": "alya amanda",
         "second_name": "alya",
         "image": "https://telegra.ph/file/ae3ac658dfe04d3daa5d7.jpg",
+        "bio": {
+            "birthdate": "21 July 2005",
+            "zodiac": "Cancer",
+            "description": "Nama asli: Grace Octaviani Tanujaya. Member JKT48 generasi 11. Catchphrase: ''"
+        },
 	"socials": {
             "instagram": "https://instagram.com/jkt.alya_",
             "tiktok": "https://tiktok.com/@alyajkt48",
@@ -186,7 +276,7 @@
         "bio": {
             "birthdate": "21 July 2005",
             "zodiac": "Cancer",
-            "description": "paul christy, the owner of this web gallery. It's just for fun and dabbling."
+            "description": "Nama asli: Grace Octaviani Tanujaya. Member JKT48 generasi 11. Catchphrase: ''"
         },
 	"socials": {
             "instagram": "https://instagram.com/jkt48.anindya_",
@@ -201,7 +291,7 @@
         "bio": {
             "birthdate": "21 July 2005",
             "zodiac": "Cancer",
-            "description": "paul christy, the owner of this web gallery. It's just for fun and dabbling."
+            "description": "Nama asli: Grace Octaviani Tanujaya. Member JKT48 generasi 11. Catchphrase: ''"
         },
 	"socials": {
             "instagram": "https://instagram.com/jkt.cathy",
@@ -216,7 +306,7 @@
         "bio": {
             "birthdate": "21 July 2005",
             "zodiac": "Cancer",
-            "description": "paul christy, the owner of this web gallery. It's just for fun and dabbling."
+            "description": "Nama asli: Grace Octaviani Tanujaya. Member JKT48 generasi 11. Catchphrase: ''"
         },
 	"socials": {
             "instagram": "https://instagram.com/jkt48.elin_",
@@ -231,7 +321,7 @@
         "bio": {
             "birthdate": "21 July 2005",
             "zodiac": "Cancer",
-            "description": "paul christy, the owner of this web gallery. It's just for fun and dabbling."
+            "description": "Nama asli: Grace Octaviani Tanujaya. Member JKT48 generasi 11. Catchphrase: ''"
         },
 	"socials": {
             "instagram": "https://instagram.com/jkt48.chelsea.d",
@@ -246,7 +336,7 @@
         "bio": {
             "birthdate": "21 July 2005",
             "zodiac": "Cancer",
-            "description": "paul christy, the owner of this web gallery. It's just for fun and dabbling."
+            "description": "Nama asli: Grace Octaviani Tanujaya. Member JKT48 generasi 11. Catchphrase: ''"
         },
 	"socials": {
             "instagram": "https://instagram.com/jkt48.oline",
@@ -261,7 +351,7 @@
         "bio": {
             "birthdate": "21 July 2005",
             "zodiac": "Cancer",
-            "description": "paul christy, the owner of this web gallery. It's just for fun and dabbling."
+            "description": "Nama asli: Grace Octaviani Tanujaya. Member JKT48 generasi 11. Catchphrase: ''"
         },
 	"socials": {
             "instagram": "https://instagram.com/zeeasadel",
@@ -276,7 +366,7 @@
         "bio": {
             "birthdate": "21 July 2005",
             "zodiac": "Cancer",
-            "description": "paul christy, the owner of this web gallery. It's just for fun and dabbling."
+            "description": "Nama asli: Grace Octaviani Tanujaya. Member JKT48 generasi 11. Catchphrase: ''"
         },
 	"socials": {
             "instagram": "https://instagram.com/jkt48.flora",
@@ -291,7 +381,7 @@
         "bio": {
             "birthdate": "21 July 2005",
             "zodiac": "Cancer",
-            "description": "paul christy, the owner of this web gallery. It's just for fun and dabbling."
+            "description": "Nama asli: Grace Octaviani Tanujaya. Member JKT48 generasi 11. Catchphrase: ''"
         },
 	"socials": {
             "instagram": "https://instagram.com/jkt48.fiony",
@@ -306,7 +396,7 @@
         "bio": {
             "birthdate": "21 July 2005",
             "zodiac": "Cancer",
-            "description": "paul christy, the owner of this web gallery. It's just for fun and dabbling."
+            "description": "Nama asli: Grace Octaviani Tanujaya. Member JKT48 generasi 11. Catchphrase: ''"
         },
 	"socials": {
             "instagram": "https://instagram.com/nblh.ayu",
@@ -321,7 +411,7 @@
         "bio": {
             "birthdate": "21 July 2005",
             "zodiac": "Cancer",
-            "description": "paul christy, the owner of this web gallery. It's just for fun and dabbling."
+            "description": "Nama asli: Grace Octaviani Tanujaya. Member JKT48 generasi 11. Catchphrase: ''"
         },
 	"socials": {
             "instagram": "https://instagram.com/melodylaksani92",
@@ -336,7 +426,7 @@
         "bio": {
             "birthdate": "21 July 2005",
             "zodiac": "Cancer",
-            "description": "paul christy, the owner of this web gallery. It's just for fun and dabbling."
+            "description": "Nama asli: Grace Octaviani Tanujaya. Member JKT48 generasi 11. Catchphrase: ''"
         },
 	"socials": {
             "instagram": "https://instagram.com/haruuuu_chan",
@@ -351,7 +441,7 @@
         "bio": {
             "birthdate": "21 July 2005",
             "zodiac": "Cancer",
-            "description": "paul christy, the owner of this web gallery. It's just for fun and dabbling."
+            "description": "Nama asli: Grace Octaviani Tanujaya. Member JKT48 generasi 11. Catchphrase: ''"
         },
 	"socials": {
             "instagram": "https://instagram.com/jkt48gita",
@@ -366,7 +456,7 @@
         "bio": {
             "birthdate": "21 July 2005",
             "zodiac": "Cancer",
-            "description": "paul christy, the owner of this web gallery. It's just for fun and dabbling."
+            "description": "Nama asli: Grace Octaviani Tanujaya. Member JKT48 generasi 11. Catchphrase: ''"
         },
 	"socials": {
             "instagram": "https://instagram.com/jkt48.olla",
@@ -381,7 +471,7 @@
         "bio": {
             "birthdate": "21 July 2005",
             "zodiac": "Cancer",
-            "description": "paul christy, the owner of this web gallery.\nIt's just for fun and dabbling."
+            "description": "Nama asli: Grace Octaviani Tanujaya. Member JKT48 generasi 11. Catchphrase: ''"
         },
 	"socials": {
             "instagram": "https://instagram.com/jkt48.jessi",
@@ -396,7 +486,7 @@
         "bio": {
             "birthdate": "21 July 2005",
             "zodiac": "Cancer",
-            "description": "paul christy, the owner of this web gallery. It's just for fun and dabbling."
+            "description": "Nama asli: Grace Octaviani Tanujaya. Member JKT48 generasi 11. Catchphrase: ''"
         },
 	"socials": {
             "instagram": "https://instagram.com/ye.chika",
@@ -411,7 +501,7 @@
         "bio": {
             "birthdate": "21 July 2005",
             "zodiac": "Cancer",
-            "description": "paul christy, the owner of this web gallery. It's just for fun and dabbling."
+            "description": "Nama asli: Grace Octaviani Tanujaya. Member JKT48 generasi 11. Catchphrase: ''"
         },
 	"socials": {
             "instagram": "https://instagram.com/jkt48.muthe_",
@@ -426,7 +516,7 @@
         "bio": {
             "birthdate": "21 July 2005",
             "zodiac": "Cancer",
-            "description": "paul christy, the owner of this web gallery. It's just for fun and dabbling."
+            "description": "Nama asli: Grace Octaviani Tanujaya. Member JKT48 generasi 11. Catchphrase: ''"
         },
 	"socials": {
             "instagram": "https://instagram.com/jkt48.ei",
@@ -441,7 +531,7 @@
         "bio": {
             "birthdate": "21 July 2005",
             "zodiac": "Cancer",
-            "description": "paul christy, the owner of this web gallery. It's just for fun and dabbling."
+            "description": "Nama asli: Grace Octaviani Tanujaya. Member JKT48 generasi 11. Catchphrase: ''"
         },
 	"socials": {
             "instagram": "https://instagram.com/jkt48.oniel",
@@ -456,7 +546,7 @@
         "bio": {
             "birthdate": "21 July 2005",
             "zodiac": "Cancer",
-            "description": "paul christy, the owner of this web gallery. It's just for fun and dabbling."
+            "description": "Nama asli: Grace Octaviani Tanujaya. Member JKT48 generasi 11. Catchphrase: ''"
         },
 	"socials": {
             "instagram": "https://instagram.com/jkt48.fritzy.r",
@@ -471,7 +561,7 @@
         "bio": {
             "birthdate": "21 July 2005",
             "zodiac": "Cancer",
-            "description": "paul christy, the owner of this web gallery. It's just for fun and dabbling."
+            "description": "Nama asli: Grace Octaviani Tanujaya. Member JKT48 generasi 11. Catchphrase: ''"
         },
 	"socials": {
             "instagram": "https://instagram.com/jkt48.aralie",
@@ -486,7 +576,7 @@
         "bio": {
             "birthdate": "21 July 2005",
             "zodiac": "Cancer",
-            "description": "paul christy, the owner of this web gallery. It's just for fun and dabbling."
+            "description": "Nama asli: Grace Octaviani Tanujaya. Member JKT48 generasi 11. Catchphrase: ''"
         },
 	"socials": {
             "instagram": "https://instagram.com/jkt48.michie_",
@@ -501,7 +591,7 @@
         "bio": {
             "birthdate": "21 July 2005",
             "zodiac": "Cancer",
-            "description": "paul christy, the owner of this web gallery. It's just for fun and dabbling."
+            "description": "Nama asli: Grace Octaviani Tanujaya. Member JKT48 generasi 11. Catchphrase: ''"
         },
 	"socials": {
             "instagram": "https://instagram.com/jkt48.greesel",
@@ -516,7 +606,7 @@
         "bio": {
             "birthdate": "18 Oktober 2007",
             "zodiac": "Libra",
-            "description": "Nama asli: Grace Octaviani Tanujaya. Member JKT48 generasi 11. Catchphrase: 'Manis seperti gulali, imut seperti kelinci! Halo, aku Gracie!'"
+            "description": "Nama asli: Grace Octaviani Tanujaya. Member JKT48 generasi 11.\n Catchphrase:'Manis seperti gulali, imut seperti kelinci! Halo, aku Gracie!'"
         },
 	"socials": {
             "instagram": "https://instagram.com/jkt48.gracie",
@@ -531,7 +621,7 @@
         "bio": {
             "birthdate": "21 July 2005",
             "zodiac": "Cancer",
-            "description": "paul christy, the owner of this web gallery. It's just for fun and dabbling."
+            "description": "paul christy, the owner of this web gallery.\n It's just for fun and dabbling."
         },
 	"socials": {
             "instagram": "https://instagram.com/initiaann_0705",
